@@ -1,4 +1,4 @@
-# This shelf is designed to be clammed to the table and make a small stair of shelfes tothe side of the table or on it.
+# This shelf is designed to be clammed to the table and make a small stair of shelfes to the side of the table or onto it.
 
 ## Extras you need to make it more stable:
 
