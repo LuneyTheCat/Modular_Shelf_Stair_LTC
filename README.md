@@ -7,7 +7,6 @@
 -needs to be welded into the ***platform*** model and alligned with surface so that the M4 10mm bolt will reach it
 ### 2x M4 bolts of your liking (10mm long)
 -inseted trough the top on to the ***inner support*** model
-//cnckitchen.store/cdn/shop/files/M4.png?v=1704123450&width=1946
 
 ## for each next floor:
 ### 2x M4 threaded inserts (short(4mm))
